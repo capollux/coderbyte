@@ -1,5 +1,5 @@
-num1 = 3 #Can Changed
-num2 = 122 #Can Changed
+num1 = 3 #Can Change
+num2 = 122 #Can Change
 
 flag="true"
 
