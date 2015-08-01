@@ -1,4 +1,4 @@
-str = "Hello-LOL" #Can Changed
+str = "Hello-LOL" #Can Change
 
 str=str.swapcase
 
