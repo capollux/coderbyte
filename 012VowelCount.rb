@@ -1,4 +1,4 @@
-str="hello" #Can Changed
+str="hello" #Can Change
 
 cnt=str.scan(/[aeoui]/).count
 
