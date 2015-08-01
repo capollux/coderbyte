@@ -1,4 +1,4 @@
-str="oxoxooxx" #Can Changed
+str="oxoxooxx" #Can Change
 
 flag = (str.scan("o").count==str.scan("x").count)
 
