@@ -1,5 +1,5 @@
 str="hello world" #Can Change
 
-str=str.capitalize
+str = str.split.map {|word| word.capitalize}.join(" ")
 
 puts str
