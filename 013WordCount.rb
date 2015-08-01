@@ -1,4 +1,4 @@
-str = "Hello World" #Can Changed
+str = "Hello World" #Can Change
 
 cnt=str.split.count
 
