@@ -1,4 +1,4 @@
-num=12
+num=12 #Can Change
 
 num.times do |i|
 	num+=i
