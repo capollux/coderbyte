@@ -1,4 +1,4 @@
-str="qwerty" #Cna changed
+str="qwerty" #Can change
 
 str=str.reverse
 
